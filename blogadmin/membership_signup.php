@@ -1,5 +1,5 @@
 <?php
-	$app_name = 'BLOG ADMIN';
+	$app_name = 'ADMIN';
 	$currDir = dirname(__FILE__);
 	include("{$currDir}/defaultLang.php");
 	include("{$currDir}/language.php");
@@ -103,6 +103,7 @@
 	<div class="row">
 		<div class="hidden-xs col-sm-4 col-md-6 col-lg-8" id="signup_splash">
 			<!-- customized splash content here -->
+			
 		</div>
 
 		<div class="col-sm-8 col-md-6 col-lg-4">
@@ -139,7 +140,7 @@
 
 						<div class="form-group">
 							<label for="email" class="control-label"><?php echo $Translation['email']; ?></label>
-							<input class="form-control" type="text" required="" placeholder="<?php echo $Translation['email']; ?>" id="email" name="email">
+							<input class="form-control" type="text" required="" placeholder="<?php echo $Translation['email']; ?>email" id="email" name="email">
 						</div>
 
 						<div class="form-group">

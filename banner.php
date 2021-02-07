@@ -11,30 +11,33 @@
 				<div class="carousel-item active">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","1") ?>
+							<!-- <?php getbannertext("titles","1") ?> -->
+							Get Review On Your Products By Our Experts!
 						</h3>
 					</div>
 				</div>
 				<div class="carousel-item item2">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","2") ?>
+							<!-- <?php getbannertext("titles","2") ?> -->
+							Become Our Expert And Start Your Side Hustle! 
 						</h3>
 					</div>
 				</div>
 				<div class="carousel-item item3">
 					<div class="carousel-caption">
 						<h3>
-							<?php getbannertext("titles","3") ?>
+							<!-- <?php getbannertext("titles","3") ?> -->
+							Trust is What We Win.
 						</h3>
 					</div>
 				</div>
-				<div class="carousel-item item4">
+				<!-- <div class="carousel-item item4">
 					<div class="carousel-caption">
 						<h3>
 							<?php getbannertext("titles","4") ?>
 						</h3>
-				</div>
+				</div> -->
 			</div>
 			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
 				<span class="carousel-control-prev-icon" aria-hidden="true"></span>

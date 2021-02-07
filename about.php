@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title><?php getwebname("titles"); echo"|"; gettagline("titles");?>| About</title>
+	<title>Get.Review | Get.Review</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
@@ -45,7 +45,7 @@
 			<h3 class="tittle">About</h3>
 			<div class="row inner-sec">
 				<!--left-->
-				<div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+				<div class="col-lg-12 left-blog-info-w3layouts-agileits text-left">
 					<div class="blog-grid-top">
 
 						<div class="blog_info_left_grid">
@@ -54,14 +54,20 @@
 							</a>
 						</div>
 						<h3>
-							<?php getwebname("titles"); echo"|"; gettagline("titles");?>
+							Get Your Product Reviewed By Our Expert.
 						</h3>
-						<p><?php getdetaileddescription("titles");?></p>
+						<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta libero quos dignissimos tenetur quaerat reprehenderit velit tempora officia, debitis cum fuga aspernatur, veniam a corporis?
+						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit quas sit cumque, iste tempore ipsum, sequi dolores ullam possimus explicabo accusamus non rerum magnam dolorem.
+						Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero reiciendis modi deleniti delectus corrupti ducimus? Corporis ex atque quae, quasi dolor laudantium nemo perspiciatis omnis.<br>
+						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit sed itaque fugiat rem ratione accusantium, in nisi odio nostrum facilis eius delectus maiores earum atque perspiciatis aspernatur ex ipsam. Numquam impedit delectus quibusdam, fuga ut magni cumque asperiores molestias odio. Harum quia necessitatibus officiis assumenda.
+
+							</p>
+
 					</div>
 				</div>
 				<!--//left-->
 				<!--right-->
-				<aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
+				<!-- <aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
 					<div class="right-blog-info text-left">
 						<h4><strong>Categories</strong></h4>
 						<ul class="list-group single">
@@ -101,7 +107,7 @@
 											<!--olderpostsendhere-->
 										</div>
 									</div>
-								</aside>
+								</aside> 
 								<!--//right-->
 							</div>
 						</div>

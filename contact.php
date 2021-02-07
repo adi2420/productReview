@@ -3,7 +3,7 @@
 <html lang="zxx">
 
 <head>
-	<title><?php getwebname("titles"); echo"|"; gettagline("titles");?> | Contact</title>
+	<title>Get.Review  | Contact</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
 	<link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
@@ -44,7 +44,7 @@
 	<section class="main-content-w3layouts-agileits">
 
 		<h3 class="tittle">Contact Us</h3>
-		<p class="sub text-center">We love to discuss your idea</p>
+		<p class="sub text-center">We love to share your problem and  discuss your idea</p>
 		<div class="contact-map inner-sec">
 
 			<iframe src="<?php getcontacts("titles","4");?>"
@@ -97,6 +97,7 @@
 						</div>
 					</div>
 				</div>
+				<!-- ////// -->
 			</section>
 			<!--//main-->
 			<!--footer-->

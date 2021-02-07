@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
 					<h3>About US</h3>
-					<p><?php getshortdescription("titles"); ?></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ex adipisci odit. Dolorem, provident veniam blanditiis nisi rem assumenda, magni culpa maxime, in itaque debitis. Mollitia tempore quos suscipit sequi.</p>
 					<div class="read">
 						<a href="about.php" class="btn btn-primary read-m">Read More</a>
 					</div>
@@ -12,7 +12,7 @@
 				<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
 
 					<div class="tech-btm">
-						<h3>Popular Posts</h3>
+						<h3>Popular reviews</h3>
 						<?php getpopularposts("page_hits"); ?>
 					</div>
 				</div>
@@ -66,8 +66,8 @@
 					</div>
 				</div>
 				<div class="w3layouts-agile-copyrightbottom">
-					<p>© <?php $current=date("Y"); print_r($current); echo"&nbsp;"; getwebname("titles");?>. All Rights Reserved | Web System by
-						<a href="http://www.ronaldngoda.rf.gd">Ronnie +2540708344101</a>
+					<p>© <?php $current=date("Y"); print_r($current); echo"&nbsp;"; ?>. All Rights Reserved | Web System by
+						<a href="#">Someone@9999111100	</a>
 					</p>
 
 				</div>

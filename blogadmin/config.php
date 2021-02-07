@@ -17,7 +17,7 @@
 		'custom1' => "Full Name",
 		'custom2' => "Address",
 		'custom3' => "City",
-		'custom4' => "Phone",
+		'custom4' => "Whatsapp Number",
 		'MySQLDateFormat' => "%m/%d/%Y",
 		'PHPDateFormat' => "n/j/Y",
 		'PHPDateTimeFormat' => "m/d/Y, h:i a",
